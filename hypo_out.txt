@@ -1,0 +1,516 @@
+((lp0
+S'<start> a man holding a cell phone in front of a man . <end>'
+p1
+aS'<start> a dog sitting in a car seat on a car . <end>'
+p2
+aS'<start> a street scene with a traffic light and a street sign . <end>'
+p3
+aS'<start> a man is holding a cell phone in front of a window . <end>'
+p4
+aS'<start> a large elephant standing next to a large elephant . <end>'
+p5
+aS'<start> a row of surfboards sitting on top of a wooden table . <end>'
+p6
+aS'<start> a plate of food with a fork and a fork . <end>'
+p7
+aS'<start> a person is holding a piece of luggage . <end>'
+p8
+aS'<start> a large white truck parked in front of a building . <end>'
+p9
+aS'<start> a sheep is standing in a field with a dog . <end>'
+p10
+aS'<start> a group of people standing around a table with a cake . <end>'
+p11
+aS'<start> a red fire hydrant in a field next to a tree . <end>'
+p12
+aS'<start> a man is skiing down a hill in the snow . <end>'
+p13
+aS'<start> a living room with a couch , a couch , and a television . <end>'
+p14
+aS'<start> a man riding a horse on a city street . <end>'
+p15
+aS'<start> a sandwich with a sandwich on a plate . <end>'
+p16
+aS'<start> a group of sheep grazing on a lush green field . <end>'
+p17
+aS'<start> a man on a motorcycle in a city <end>'
+p18
+aS'<start> a vase of flowers sitting on a table . <end>'
+p19
+aS'<start> a polar bear is standing in the snow . <end>'
+p20
+aS'<start> a woman is sitting in front of a table with a cat . <end>'
+p21
+aS'<start> a clock tower with a clock on top of it . <end>'
+p22
+aS'<start> a desk with a laptop and a monitor on it . <end>'
+p23
+aS'<start> a street sign with a street sign and a street sign . <end>'
+p24
+aS'<start> a clock tower with a clock on top of it . <end>'
+p25
+aS'<start> a street scene with a traffic light and a traffic light . <end>'
+p26
+aS'<start> a red fire hydrant sitting on the side of a street . <end>'
+p27
+aS'<start> a bed with a blanket on top of it . <end>'
+p28
+aS'<start> a bus is parked on the side of a road . <end>'
+p29
+aS'<start> a young boy is playing with a frisbee in a field . <end>'
+p30
+aS'<start> a pizza with a knife and a knife on a plate . <end>'
+p31
+aS'<start> a city bus is driving down a street . <end>'
+p32
+aS'<start> a man is holding a remote in his hand . <end>'
+p33
+aS'<start> a bedroom with a bed , a television , and a television . <end>'
+p34
+aS'<start> a man and woman in a room with a laptop . <end>'
+p35
+aS'<start> a man holding a red umbrella in front of a building . <end>'
+p36
+aS'<start> a small child is holding a teddy bear . <end>'
+p37
+aS'<start> a group of cars parked in a field next to a building . <end>'
+p38
+aS'<start> a group of zebra standing next to each other on a field . <end>'
+p39
+aS'<start> a person laying on a bed with a laptop . <end>'
+p40
+aS'<start> a man and woman are playing a video game . <end>'
+p41
+aS'<start> a bathroom with a toilet and a sink . <end>'
+p42
+aS'<start> a woman is sitting on a bench with a dog . <end>'
+p43
+aS'<start> a group of motorcycles parked in front of a building . <end>'
+p44
+aS'<start> a group of people on skis in the snow . <end>'
+p45
+aS'<start> a horse is standing in the dirt near a fence . <end>'
+p46
+aS'<start> a large airplane sitting on top of an airport tarmac . <end>'
+p47
+aS'<start> a large room with a lot of luggage . <end>'
+p48
+aS'<start> a bunch of stuffed animals sitting on a bed . <end>'
+p49
+aS'<start> a train station with a train on the train tracks . <end>'
+p50
+aS'<start> a black and white cat sitting on a bed . <end>'
+p51
+aS'<start> a man is surfing in the ocean with a surfboard . <end>'
+p52
+aS'<start> a pizza with a knife and a knife on a plate . <end>'
+p53
+aS'<start> a woman holding an umbrella in front of a building . <end>'
+p54
+aS'<start> a red and white bus driving down a street . <end>'
+p55
+aS'<start> a man is flying a kite in a field . <end>'
+p56
+aS'<start> a large truck is parked in a field . <end>'
+p57
+aS'<start> a zebra is standing in the grass near a tree . <end>'
+p58
+aS'<start> a cat is laying on a couch with a remote . <end>'
+p59
+aS'<start> a small white and black and white cake <end>'
+p60
+aS'<start> a man is playing a video game on a television . <end>'
+p61
+aS'<start> a truck with a truck parked on the side of a road . <end>'
+p62
+aS'<start> a man is skiing down a hill on a snowy slope . <end>'
+p63
+aS'<start> a bird sitting on a branch of a tree . <end>'
+p64
+aS'<start> a large white and white truck with a lot of people on it <end>'
+p65
+aS'<start> a large building with a clock on the top . <end>'
+p66
+aS'<start> a bird sitting on a bench in the water . <end>'
+p67
+aS'<start> a group of people playing a game of frisbee . <end>'
+p68
+aS'<start> a man is playing a video game on a television . <end>'
+p69
+aS'<start> a man riding a wave on a surfboard in the ocean . <end>'
+p70
+aS'<start> a woman is jumping in the air with a skateboard . <end>'
+p71
+aS'<start> a group of people standing around a building with a clock . <end>'
+p72
+aS'<start> a plate of food with a sandwich and a drink . <end>'
+p73
+aS'<start> a woman is holding a tennis racket in a tennis match . <end>'
+p74
+aS'<start> a person is skiing down a hill in the snow . <end>'
+p75
+aS'<start> a pizza with a knife and a knife on a plate . <end>'
+p76
+aS'<start> a woman holding a tennis racket in front of a crowd . <end>'
+p77
+aS'<start> a dog is standing on a beach next to a frisbee . <end>'
+p78
+aS'<start> a giraffe is eating from a tree branch . <end>'
+p79
+aS'<start> a man is sitting at a table with a laptop computer . <end>'
+p80
+aS'<start> a group of people sitting on a bench in the rain . <end>'
+p81
+aS'<start> a bird sitting on a wooden bench next to a bird . <end>'
+p82
+aS'<start> a man and a woman are sitting on a bench . <end>'
+p83
+aS'<start> a desk with a computer and a monitor on it . <end>'
+p84
+aS'<start> a pair of scissors and a pair of scissors . <end>'
+p85
+aS'<start> a man is skiing down a hill on a snowy day . <end>'
+p86
+aS'<start> a plate of food with a cup of coffee . <end>'
+p87
+aS'<start> a toilet seat with a toilet seat in it . <end>'
+p88
+aS'<start> a man in a suit and tie standing in front of a building . <end>'
+p89
+aS'<start> a clock on a pole with a clock on it . <end>'
+p90
+aS'<start> a group of people walking down a street next to a bus . <end>'
+p91
+aS'<start> a man holding a tennis racket and a tennis racket . <end>'
+p92
+aS'<start> a traffic light and a street sign on a pole . <end>'
+p93
+aS'<start> a train is pulling up to a train station . <end>'
+p94
+aS'<start> a man holding a banana in a green field . <end>'
+p95
+aS'<start> a kitchen with a table and a table <end>'
+p96
+aS'<start> a group of people on skis in the snow . <end>'
+p97
+aS'<start> a giraffe standing next to a fence with a giraffe . <end>'
+p98
+aS'<start> a group of people playing a game of soccer on a field . <end>'
+p99
+aS'<start> a group of people skiing down a snowy slope . <end>'
+p100
+aS'<start> a large white and black train is on a train station . <end>'
+p101
+aS'<start> a large room with a clock on the wall . <end>'
+p102
+aS'<start> a red truck parked in front of a building . <end>'
+p103
+aS'<start> a toilet and a toilet in a bathroom . <end>'
+p104
+aS'<start> a group of people riding on a surf board <end>'
+p105
+aS'<start> a man and woman in a kitchen with a cake . <end>'
+p106
+aS'<start> a herd of zebra standing on top of a lush green field . <end>'
+p107
+aS'<start> a piece of cake with a fork and a fork . <end>'
+p108
+aS'<start> a man and a woman are riding on a elephant . <end>'
+p109
+aS'<start> a train is pulling up to a train station . <end>'
+p110
+aS'<start> a group of people standing on a beach next to a body of water . <end>'
+p111
+aS'<start> a person is holding a cell phone in front of a building . <end>'
+p112
+aS'<start> a group of giraffes walking through a field of trees . <end>'
+p113
+aS'<start> a street scene with a street sign and a street sign . <end>'
+p114
+aS'<start> a person holding a cell phone in front of a building . <end>'
+p115
+aS'<start> a dog is laying on a couch next to a window . <end>'
+p116
+aS'<start> a desk with a laptop and a laptop on it . <end>'
+p117
+aS'<start> a street sign with a sign on the side of it . <end>'
+p118
+aS'<start> a pair of scissors and a pair of scissors . <end>'
+p119
+aS'<start> a baseball player swinging a bat at a ball <end>'
+p120
+aS'<start> a crowd of people walking on a city street . <end>'
+p121
+aS'<start> a man wearing a suit and tie with a hat on it . <end>'
+p122
+aS'<start> a man is jumping over a skateboard on a ramp . <end>'
+p123
+aS'<start> a bird sitting on a wooden bench in the water . <end>'
+p124
+aS'<start> a train is parked on the side of a road . <end>'
+p125
+aS'<start> a couple of zebra standing next to each other . <end>'
+p126
+aS'<start> a group of elephants walking around a dirt road . <end>'
+p127
+aS'<start> a red and white bus driving down a street . <end>'
+p128
+a(lp129
+S'<start> a man in a black shirt holding a dog with its hand in the air . <end>'
+p130
+aS'<start> a rearview mirror showing a dog with his head sticking out the car window . <end>'
+p131
+aS'<start> a group of people waiting to cross a traffic filled street at a crosswalk . <end>'
+p132
+aS'<start> man wearing a dress shirt and tie holds a bottle up to his face . <end>'
+p133
+aS"<start> an adult elephant with someone 's foot on his side near a baby elephant . <end>"
+p134
+aS'<start> a beach area with a set of surfboards standing upright in a surfboard holder . <end>'
+p135
+aS'<start> a plate of fruit sitting next to another plate of food on a table <end>'
+p136
+aS'<start> a person is holding a spatula near slices of bread on a stove . <end>'
+p137
+aS'<start> an old bus parks in a parking lot with other cars and bus . <end>'
+p138
+aS'<start> a number of tagged sheep in a field are looking at the camera . <end>'
+p139
+aS'<start> a man and a woman stopped to smile and pose for a photo . <end>'
+p140
+aS'<start> picture of a fire hydrant in front of a large group of trees . <end>'
+p141
+aS'<start> a guy on skis going down a snow covered hill between trees . <end>'
+p142
+aS'<start> a living room with a couch that has a dog on it . <end>'
+p143
+aS'<start> a man is standing on top of two horses that are running . <end>'
+p144
+aS'<start> sandwich sitting on top of a table next to a beer bottle . <end>'
+p145
+aS'<start> a man and his white dog playing frisbee on a grassy hill . <end>'
+p146
+aS'<start> a man riding a black motor bike in back of a red car <end>'
+p147
+aS'<start> a vase with an arrangement of wild flowers and branches in it . <end>'
+p148
+aS'<start> a polar bear on the ice with a green cone in its mouth <end>'
+p149
+aS'<start> a woman holding up the <unk> of a pizza next to table . <end>'
+p150
+aS'<start> a large tower set against the night sky with a clock on it <end>'
+p151
+aS'<start> a laptop computer sitting on a desk next to a desktop monitor . <end>'
+p152
+aS'<start> the back of sign and pole is fully decorated with stickers . <end>'
+p153
+aS'<start> a small clock on a pole in front of a building . <end>'
+p154
+aS"<start> a city bus has it 's running lights on at dusk . <end>"
+p155
+aS'<start> a red fire hydrant with a sticker of several animals on it <end>'
+p156
+aS'<start> a bed with pillows where the blanket is slightly pulled back . <end>'
+p157
+aS'<start> the school bus is waiting in front of the large school . <end>'
+p158
+aS'<start> a little girl flying a white kite on a green field . <end>'
+p159
+aS'<start> a pizza on a plate with toppings cut into four slices . <end>'
+p160
+aS'<start> a trolley stopping at the curb to pick up two passengers . <end>'
+p161
+aS'<start> a man taking a picture of a cake on his phone . <end>'
+p162
+aS'<start> a couch , fireplace , and other furniture sitting in a <unk> <end>'
+p163
+aS'<start> a small group of people sit around a laptop and speak . <end>'
+p164
+aS'<start> large , colorful paper umbrellas are propped up along the porch . <end>'
+p165
+aS'<start> a white teddy bear with a green shirt and a smiling girl <end>'
+p166
+aS'<start> a paved path stretches through the grass under the cloudy sky . <end>'
+p167
+aS'<start> a zebra and a giraffe eating from the grass and trees . <end>'
+p168
+aS'<start> vertical picture of a woman laying upside down on a bed . <end>'
+p169
+aS'<start> a man in black shirt on asphalt next to a skateboard . <end>'
+p170
+aS'<start> a white sink under a bathroom mirror on a bathroom counter . <end>'
+p171
+aS'<start> a woman is walking on a sidewalk , pulling a suitcase . <end>'
+p172
+aS'<start> two motorcycle sit next to each other in a parking lot . <end>'
+p173
+aS'<start> a group of men riding skis down a snow covered slope . <end>'
+p174
+aS'<start> there are many elephants that can be seen here in the wild <end>'
+p175
+aS'<start> a jet is sitting on the cold and <unk> runway . <end>'
+p176
+aS'<start> a <unk> consisting of many beds lined up along the wall <end>'
+p177
+aS'<start> several shoes and clothes sitting on a bed near luggage . <end>'
+p178
+aS'<start> red train with graffiti on it at a train station . <end>'
+p179
+aS'<start> a close up view of sheets that are on a bed <end>'
+p180
+aS'<start> a couple of people on a surfboard in the ocean . <end>'
+p181
+aS'<start> a pizza is sliced into four pieces on a plate . <end>'
+p182
+aS'<start> a child in a rain coat with birds surrounding them . <end>'
+p183
+aS'<start> a bus and a bicyclist driving through a large puddle . <end>'
+p184
+aS'<start> man against the sky with a frisbee over his head . <end>'
+p185
+aS'<start> people trying to rescue other people from a train wreck . <end>'
+p186
+aS'<start> a zebra standing in a grassy field by a woods . <end>'
+p187
+aS'<start> grey cat laying on a green floor near a <unk> . <end>'
+p188
+aS'<start> a bear shaped full jar of honey sits on a table <end>'
+p189
+aS'<start> a boy and a girl play a video game together . <end>'
+p190
+aS'<start> two guys in the bed of a white pickup truck . <end>'
+p191
+aS'<start> a man who is making a jump on snow skis . <end>'
+p192
+aS'<start> a humming bird flying next to a red bird feeder . <end>'
+p193
+aS'<start> there is a white horse pulling a trolley behind it . <end>'
+p194
+aS'<start> a cluster of old buildings rises above a shaded table . <end>'
+p195
+aS'<start> two birds are perched on a bench by some water . <end>'
+p196
+aS'<start> a group of young people playing a game of frisbee . <end>'
+p197
+aS'<start> the boy is holding a remote as he plays a game <end>'
+p198
+aS'<start> a man is riding the giant wave on his board . <end>'
+p199
+aS'<start> a skateboarder flying off of the top lip of a ramp <end>'
+p200
+aS'<start> a group of people standing outside of a building . <end>'
+p201
+aS'<start> a large piece of blueberry cake on a plate . <end>'
+p202
+aS'<start> a young woman gets ready to serve the ball . <end>'
+p203
+aS'<start> skiers stand at <unk> against a clear blue sky . <end>'
+p204
+aS'<start> a pizza with a slice being taken from it . <end>'
+p205
+aS'<start> a woman with a head band holding a tennis racket <end>'
+p206
+aS'<start> two dogs walking down a street side by side . <end>'
+p207
+aS'<start> a giraffe <unk> off in the shade under a tree <end>'
+p208
+aS'<start> a man with glasses sitting at a desktop computer . <end>'
+p209
+aS'<start> people watching a light aircraft being <unk> by a bulldozer <end>'
+p210
+aS'<start> a chicken standing below a bench at a park . <end>'
+p211
+aS'<start> young men are loading surfboards into an old car . <end>'
+p212
+aS'<start> a computer being used on the <unk> of a restaurant <end>'
+p213
+aS'<start> a group of crafting supplies sitting on the table . <end>'
+p214
+aS'<start> snow skier on powdered ski slope in alpine area . <end>'
+p215
+aS'<start> a cup on a plate next to a laptop . <end>'
+p216
+aS'<start> i can tell that those are <unk> flushing toilets . <end>'
+p217
+aS'<start> two people standing near one another on a city street <end>'
+p218
+aS'<start> silhouette of a woman in front of a clock . <end>'
+p219
+aS'<start> two police officers on motorcycles stopped at an intersection . <end>'
+p220
+aS'<start> a man holding a tennis racket and tennis ball . <end>'
+p221
+aS'<start> the signs clearly tell the cars where to go . <end>'
+p222
+aS'<start> a woman standing next to a graffiti covered train . <end>'
+p223
+aS'<start> a little old lady holding a bowl of bananas . <end>'
+p224
+aS'<start> a room is filled with someones furniture and belongings . <end>'
+p225
+aS'<start> a skier has just taken a jump on a slope <end>'
+p226
+aS'<start> a couple of giraffes are standing together by a wall <end>'
+p227
+aS'<start> the girl is about to kick a soccer ball . <end>'
+p228
+aS'<start> a group of skiers in line head down a mountain <end>'
+p229
+aS'<start> urban business as seen through window from across street . <end>'
+p230
+aS'<start> a lamp shines on the nightstand beside the bed . <end>'
+p231
+aS'<start> an <unk> bus is parked in a residential area . <end>'
+p232
+aS'<start> a bathroom with a couple of different toilets in it <end>'
+p233
+aS'<start> a man surfing near a beach with people watching . <end>'
+p234
+aS'<start> a couple cut a bright , neon cake together . <end>'
+p235
+aS'<start> zebra and wildebeest roam on a flat green plain . <end>'
+p236
+aS'<start> a sandwich being browned on a buttered grill . <end>'
+p237
+aS'<start> a group of people standing around an elephant . <end>'
+p238
+aS'<start> the passenger train is traveling on the tracks . <end>'
+p239
+aS'<start> a man is plowing the field in preparation . <end>'
+p240
+aS'<start> a person that is driving on the street . <end>'
+p241
+aS'<start> zebras in the wild with a wildebeest behind them <end>'
+p242
+aS'<start> the small street is crowded with small shops . <end>'
+p243
+aS'<start> two hands holding and <unk> a cellular phone . <end>'
+p244
+aS'<start> a dog is laying on a bunk bed . <end>'
+p245
+aS'<start> a computer desk with a large purple office chair <end>'
+p246
+aS'<start> a snow covered sign in a city neighborhood . <end>'
+p247
+aS'<start> a old wall that has some writing on it <end>'
+p248
+aS'<start> a group of guys playing baseball on a field <end>'
+p249
+aS'<start> a kite flies through a smoggy <unk> square . <end>'
+p250
+aS'<start> a wooden elephant figurine next to a book . <end>'
+p251
+aS'<start> a man who is skateboarding on a ramp . <end>'
+p252
+aS'<start> two cranes <unk> on rocks near the water . <end>'
+p253
+aS'<start> a train sits parked inside of a station <end>'
+p254
+aS'<start> a zebra grazing in a field with elephants <end>'
+p255
+aS'<start> elephants in a zoo close to buildings <end>'
+p256
+aS'<start> a public transit bus with traffic lights <end>'
+p257
+atp258
+.
